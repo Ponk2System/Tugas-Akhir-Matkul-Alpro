@@ -7,6 +7,10 @@ ketentuan: tidak diperbolehkan menggunakan library stack maupun queue
 **PROGRAM 2**
 -> Mengimplementasikan materi *Divide and Conquer* pada sebuah studi kasus
 
+Anggota kelompok:
+Cornelius Fransinatra Wijaya 21120124140141 
+Ashar Firdaus 21120124130062
+
 ## Implementasi Queue & Divide and Conquer dalam C++
 
 **Simulasi Print Spooler (Antrean Printer)**
