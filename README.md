@@ -1,15 +1,19 @@
 # Tugas Akhir Mata Kuliah Algoritma dan Pemrograman
 Membuat 2 program dengan ketentuan berikut:
+
 **PROGRAM 1** 
+
 -> Mengimplementasikan materi *Stack/Queue* pada sebuah studi kasus
+
 ketentuan: tidak diperbolehkan menggunakan library stack maupun queue
 
 **PROGRAM 2**
+
 -> Mengimplementasikan materi *Divide and Conquer* pada sebuah studi kasus
 
 Anggota kelompok:
-Cornelius Fransinatra Wijaya 21120124140141 
-Ashar Firdaus 21120124130062
+- Cornelius Fransinatra Wijaya 21120124140141 
+- Ashar Firdaus 21120124130062
 
 ## Implementasi Queue & Divide and Conquer dalam C++
 
